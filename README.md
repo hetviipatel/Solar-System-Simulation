@@ -1,4 +1,4 @@
-# Solar System Simulation
+# Solar System Simulation WebPage
 
 An interactive 3D solar system simulation built with Three.js and GSAP. This project provides a visual representation of our solar system with interactive controls for planet speeds and additional features.
 
